@@ -1,0 +1,31 @@
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+.gradle
+.gradle/
+local.properties
+
+# iOS
+ios/Pods/
+ios/Podfile.lock
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# Android
+android/.gradle/
+android/gradle/
+android/captures/
+android/gradlew
+android/gradlew.bat
+android/local.properties
+
+# Miscellaneous
+*.class
+*.lock
+*.log
+.DS_Store
+.env
+.env.*
